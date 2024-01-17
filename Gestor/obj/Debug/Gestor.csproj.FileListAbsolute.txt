@@ -1,0 +1,17 @@
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Gestor\bin\Debug\Gestor.exe.config
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Gestor\bin\Debug\Gestor.exe
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Gestor\bin\Debug\Gestor.pdb
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Gestor\bin\Debug\Dominio.dll
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Gestor\bin\Debug\Negocio.dll
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Gestor\bin\Debug\Datos.dll
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Gestor\bin\Debug\Newtonsoft.Json.dll
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Gestor\bin\Debug\Dominio.pdb
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Gestor\bin\Debug\Negocio.pdb
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Gestor\bin\Debug\Datos.pdb
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Gestor\bin\Debug\Newtonsoft.Json.xml
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Gestor\obj\Debug\Gestor.csproj.AssemblyReference.cache
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Gestor\obj\Debug\Gestor.csproj.SuggestedBindingRedirects.cache
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Gestor\obj\Debug\Gestor.csproj.CoreCompileInputs.cache
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Gestor\obj\Debug\Gestor.csproj.CopyComplete
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Gestor\obj\Debug\Gestor.exe
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Gestor\obj\Debug\Gestor.pdb

@@ -1,0 +1,13 @@
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Negocio\bin\Debug\Negocio.dll
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Negocio\bin\Debug\Negocio.pdb
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Negocio\bin\Debug\Datos.dll
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Negocio\bin\Debug\Dominio.dll
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Negocio\bin\Debug\Newtonsoft.Json.dll
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Negocio\bin\Debug\Datos.pdb
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Negocio\bin\Debug\Dominio.pdb
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Negocio\bin\Debug\Newtonsoft.Json.xml
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Negocio\obj\Debug\Negocio.dll
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Negocio\obj\Debug\Negocio.pdb

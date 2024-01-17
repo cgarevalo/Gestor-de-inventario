@@ -1,0 +1,11 @@
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Datos\bin\Debug\Datos.dll
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Datos\bin\Debug\Datos.pdb
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Datos\bin\Debug\Dominio.dll
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Datos\bin\Debug\Newtonsoft.Json.dll
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Datos\bin\Debug\Dominio.pdb
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Datos\bin\Debug\Newtonsoft.Json.xml
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Datos\obj\Debug\Datos.csproj.CopyComplete
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Datos\obj\Debug\Datos.dll
+A:\Archivos\Cristian\Repositorios de github\Gestor de inventario\Datos\obj\Debug\Datos.pdb
